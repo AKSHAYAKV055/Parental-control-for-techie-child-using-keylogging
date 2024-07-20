@@ -8,11 +8,11 @@ Telegram Bot
 Capture the activities done by the child
 Send the captured image to parents telegram Id's
 
-#Tools Used
-Visual Studio
-Python IDE
+# Tools Used
+  * Visual Studio
+  * Python IDE
 
-#How to Install ?
+# How to Install ?
 First you want to create a bot in telegram by using "BotFather" in telegram. In the chat type "/start" it will give the commands for create and manage Telegram bots. Type " /newbot " and set a name for the bot. After creating a bot it will give the token to access the HTTP API by using this you can get chat id also. The bot is ready to use.
 
 Copy the code from given source file and run it in the terminal by typing the file name. It will automatically run in background and capture the activities and send the captured image to the given chat id.
